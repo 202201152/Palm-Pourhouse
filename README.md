@@ -1,7 +1,8 @@
 
-# Project Title
+# Palm Pourhouse
+Welcome to Palm Pourhouse – Where Every Sip Tells a Story.
+Explore our beautifully crafted online space designed for cocktail lovers. Browse our curated menu of signature drinks, discover detailed ingredients and flavors, and learn more about us—our passion, our process, and our commitment to creating unforgettable experiences. Whether you're planning a night out or just browsing for your next favorite drink, our website brings the bar to your screen with style and ease.
 
-A brief description of what this project does and who it's for
 
 
 ## Introduction
